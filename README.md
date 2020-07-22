@@ -6,6 +6,8 @@ Ce botnet fonctionnant en Socket est basé sur le language Java afin d'afaiblir 
 
 Détection sous VT (Virus Total) du 01/09/2019 au 22/07/2020: 0/62 - 0%
 
+![Image of Yaktocat](https://i.ibb.co/CJ6xMdG/Screenshot-1.png)
+
 https://www.virustotal.com/gui/file/03b22e2131e687e0978e8431a3c6ac2d5ba88eaaba2926b04d5b89adc9138290/detection
 
 Fonctionnalités actuelles:
